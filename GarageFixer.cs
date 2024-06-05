@@ -8,7 +8,6 @@ namespace GarageFixer
         {
             Console.WriteLine("1. Flooring Cost Calculator");
             Console.WriteLine("2. Drywall Cost Calculator");
-            Console.WriteLine("3. Insulation Cost Calculator");
             Console.WriteLine("Enter your choice:");
             int input = Convert.ToInt32(Console.ReadLine());
 
